@@ -19,7 +19,7 @@
             
                 <li id ="1" style="display: inline-block">
                 
-                    <h3>WordPress is a...</h3>
+                    <img src = "PHOTO_MEN\M_K_s_drwal_0340.jpg" alt = "sadasd">
                     
                     <div>
                         <input type="radio" onclick="hide(1)" name="question-1-answers" id="question-1-answers-A" value="A" />
@@ -40,7 +40,7 @@
                 
                 <li id ="2" style="display:none">
                 
-                    <h3>SEO is Part Of...</h3>
+                    <img src = "PHOTO_MEN\M_Z_v_zlotnik_3926.jpg" alt = "sadasd">
                     
                     <div>
                         <input type="radio" onclick="hide(2)" name="question-2-answers" id="question-2-answers-A" value="A" />
@@ -61,7 +61,7 @@
                 
                 <li id ="3" style="display:none" >
                 
-                    <h3>PHP is a....</h3>
+                   <img src = "PHOTO_MEN\M_M_s_ogrodnik_6097.jpg" alt = "sadasd">
                     
                     <div>
                         <input type="radio" onclick="hide(3)" name="question-3-answers" id="question-3-answers-A" value="A" />
@@ -81,7 +81,7 @@
                 
                 <li id ="4" style="display:none">
                 
-                    <h3>Localhost IP is..</h3>
+                    <img src = "PHOTO_MEN\M_V'_s_kierownikBudowy_4274.jpg" alt = "sadasd">
                     
                     <div>
                         <input type="radio" onclick="hide(4)" name="question-4-answers" id="question-4-answers-A" value="A" />
@@ -101,7 +101,7 @@
                 
                 <li id ="5" style="display:none">
                 
-                    <h3>Webdevtrick Is For</h3>
+                    <img src = "PHOTO_MEN\M_S_o_przewodnik_9369.jpg" alt = "sadasd">
                     
                     <div>
                         <input type="radio" onclick="hide(5)" name="question-5-answers" id="question-5-answers-A" value="A" />
